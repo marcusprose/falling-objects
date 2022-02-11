@@ -1,3 +1,3 @@
 # falling-objects
-# falling-objects
-# falling-objects
+
+A first project in computational physics
